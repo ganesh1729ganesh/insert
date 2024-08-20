@@ -105,7 +105,7 @@ const TextToSQLGenerator = () => {
           Navigate to Scripts
         </button>
         <button
-          onClick={() => window.open('https://github.com/ganesh1729ganesh', '_blank')}
+          onClick={() => window.open('https://github.com/ganesh1729ganesh/insert', '_blank')}
           style={{ padding: '10px', backgroundColor: '#f2f2f2', color: '#000', border: '1px solid #ccc', borderRadius: '4px' }}>
           Contribute
         </button>
